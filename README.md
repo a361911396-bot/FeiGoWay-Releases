@@ -22,7 +22,7 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 https://github.com/user-attachments/assets/e7ac772e-5076-412b-82ca-77c5d08cf84a
 
-点击播放按钮直接观看（720P）；[下载 1080P 高清原片](https://github.com/a361911396-bot/FeiGoWay-Releases/releases/download/v1.0.34/FeiGoWay-operation-demo-90s.mp4)。
+点击播放按钮直接观看（720P）。
 
 ## 功能与客户端界面
 
