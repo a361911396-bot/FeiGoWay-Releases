@@ -16,9 +16,15 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 家庭共用或他人使用的设备，必须先获得适当授权并明确告知记录范围。本产品不是用于隐蔽监视他人的工具。
 
-## 功能与真实界面
+## 功能与客户端界面
 
-以下为官网公开的客户端界面截图。截图中的账号状态、记录数据、套餐额度及界面细节仅用于展示，不代表你的实际数据或当前购买权益；以当前客户端和购买确认页为准。
+以下为提供的客户端演示界面。截图中的账号状态、记录数据、套餐额度及界面细节仅用于展示，不代表你的实际数据或当前购买权益；以当前客户端和购买确认页为准。
+
+### 总览：集中查看保护状态与近期活动
+
+仪表盘集中展示文件保护、窗口活动、操作记录和安全检测的概况，方便查看监控状态与近期文件事件。
+
+![仪表盘：保护状态、活动概况与近期文件事件](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/dashboard.png)
 
 ### 1. 文件保护：重要文件不只保留最后一次修改
 
@@ -26,7 +32,20 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 适用于文档覆盖、设计稿误改等场景。**恢复依赖事先生成且仍可用的备份，事后安装无法补回过去的文件版本**；重要文件仍建议另做独立备份。
 
-![文件保护：保护范围、文件事件与历史版本](https://www.feigoway.cn/screenshots/file-protection.png)
+![文件保护：保护范围与监控状态](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-protection.png)
+
+<details>
+<summary>展开查看文件事件与历史版本</summary>
+
+查看受保护文件的事件列表，按时间回顾修改、创建与删除线索。
+
+![文件事件：按时间回顾文件变化](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-events.png)
+
+查看已有历史版本及可用的恢复入口。
+
+![历史版本：查看已有备份与恢复入口](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-history.png)
+
+</details>
 
 ### 2. 窗口追踪：把分散的应用使用整理成时间线
 
@@ -34,7 +53,7 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 应用使用时长不等同于工作产出，也不能单凭窗口记录判断是谁操作或是否发生信息泄露。
 
-![窗口追踪：应用时长、分类与活动时间线](https://www.feigoway.cn/screenshots/window-tracking.png)
+![窗口追踪：应用时长、分类与活动时间线](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/window-tracking.png)
 
 ### 3. 操作记录：在特定操作发生时保存画面
 
@@ -42,11 +61,13 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 截图可能包含文档、聊天或其他敏感内容，请谨慎选择启用范围、保存时间和设备使用场景。
 
-![操作记录：触发设置与本地记录管理](https://www.feigoway.cn/screenshots/screenshots.png)
+![操作记录：触发设置与本地记录管理](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/operation-records.png)
 
 ### 4. 辅助安全检测
 
 提供监控软件相关检测与安全管理辅助能力，帮助发现需要进一步核查的线索。检测结果需要结合实际情况判断，不能替代专业杀毒、安全审计或取证服务。
+
+![监控检测：检测状态与风险线索](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/security-check.png)
 
 ## 第一次使用
 
