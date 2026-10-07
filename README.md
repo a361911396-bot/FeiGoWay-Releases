@@ -20,9 +20,9 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 90 秒演示电脑端窗口追踪与手机端活动查看。界面及功能以当前版本为准。
 
-[![点击下载操作演示视频](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/operation-demo-cover.jpg)](https://github.com/a361911396-bot/FeiGoWay-Releases/releases/download/v1.0.34/FeiGoWay-operation-demo-90s.mp4)
+https://github.com/user-attachments/assets/e7ac772e-5076-412b-82ca-77c5d08cf84a
 
-[下载操作演示 MP4（90 秒 / 1080P / 约 15.1 MiB）](https://github.com/a361911396-bot/FeiGoWay-Releases/releases/download/v1.0.34/FeiGoWay-operation-demo-90s.mp4)。点击封面或链接下载后播放；此处封面不是内嵌播放器。
+点击播放按钮直接观看（720P）；[下载 1080P 高清原片](https://github.com/a361911396-bot/FeiGoWay-Releases/releases/download/v1.0.34/FeiGoWay-operation-demo-90s.mp4)。
 
 ## 功能与客户端界面
 
