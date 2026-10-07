@@ -18,7 +18,7 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 ## 90 秒操作演示
 
-演示电脑端窗口活动回顾，以及手机端登录、选择设备和查看活动时间线的流程。视频为演示素材，界面及功能以当前客户端和已授权服务为准。
+90 秒演示电脑端窗口追踪与手机端活动查看。界面及功能以当前版本为准。
 
 [![点击下载操作演示视频](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/operation-demo-cover.jpg)](https://github.com/a361911396-bot/FeiGoWay-Releases/releases/download/v1.0.34/FeiGoWay-operation-demo-90s.mp4)
 
@@ -28,50 +28,47 @@ FeiGoWay 是面向 Windows 10 / 11 的本地优先工具，将文件保护、窗
 
 以下为提供的客户端演示界面。截图中的账号状态、记录数据、套餐额度及界面细节仅用于展示，不代表你的实际数据或当前购买权益；以当前客户端和购买确认页为准。
 
-点击任意缩略图查看大图。
+### 仪表盘
 
-| 仪表盘 | 文件保护 | 窗口追踪 |
-| :---: | :---: | :---: |
-| [![仪表盘](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/dashboard.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/dashboard.png) | [![文件保护](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-protection.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-protection.png) | [![窗口追踪](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/window-tracking.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/window-tracking.png) |
+集中查看保护状态、活动概况与近期文件事件。
 
-| 操作记录 | 监控检测 |
-| :---: | :---: |
-| [![操作记录](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/operation-records.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/operation-records.png) | [![监控检测](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/security-check.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/security-check.png) |
+![仪表盘](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/dashboard.png)
 
-<details>
-<summary>展开查看文件事件与历史版本</summary>
+### 文件保护
 
-| 文件事件：回顾文件变化 | 历史版本：查看已有备份 |
-| :---: | :---: |
-| [![文件事件](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-events.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-events.png) | [![历史版本](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-history.png)](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-history.png) |
+设置保护范围，记录文件变化并按规则保存版本。恢复依赖已有备份，事后安装无法找回过去的版本。
 
-</details>
+![文件保护](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-protection.png)
 
-### 总览：集中查看保护状态与近期活动
+### 文件事件
 
-仪表盘集中展示文件保护、窗口活动、操作记录和安全检测的概况，方便查看监控状态与近期文件事件。
+按时间回顾受保护文件的创建、修改与删除线索。
 
-### 1. 文件保护：重要文件不只保留最后一次修改
+![文件事件](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-events.png)
 
-添加需要保护的文件夹或文件，开启监控后记录受保护范围内的创建、修改与删除事件，并按功能规则保存历史版本。需要找回内容时，可查看已有版本并选择恢复。
+### 历史版本
 
-适用于文档覆盖、设计稿误改等场景。**恢复依赖事先生成且仍可用的备份，事后安装无法补回过去的文件版本**；重要文件仍建议另做独立备份。
+查看已有备份，选择需要恢复的版本。
 
-### 2. 窗口追踪：把分散的应用使用整理成时间线
+![历史版本](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/file-history.png)
 
-记录客户端运行且追踪开启期间的应用活动与窗口切换，查看使用汇总、应用排行和活动时间线，帮助你回顾工作节奏或定位异常时段。
+### 窗口追踪
 
-应用使用时长不等同于工作产出，也不能单凭窗口记录判断是谁操作或是否发生信息泄露。
+查看应用使用时长、排行与活动时间线。仅记录开启追踪期间的活动，不代表工作产出或完整取证结果。
 
-### 3. 操作记录：在特定操作发生时保存画面
+![窗口追踪](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/window-tracking.png)
 
-可按设置在检测到特定截图或文件复制操作时保存屏幕画面，并查看、管理或批量删除已有记录。它是操作触发记录，不是连续录像，也不保证捕获所有操作。
+### 操作记录
 
-截图可能包含文档、聊天或其他敏感内容，请谨慎选择启用范围、保存时间和设备使用场景。
+按设置在特定截图或复制操作时保存画面，不是连续录像。请谨慎处理画面中的敏感内容。
 
-### 4. 辅助安全检测
+![操作记录](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/operation-records.png)
 
-提供监控软件相关检测与安全管理辅助能力，帮助发现需要进一步核查的线索。检测结果需要结合实际情况判断，不能替代专业杀毒、安全审计或取证服务。
+### 监控检测
+
+辅助发现需要核查的监控软件线索，不能替代专业杀毒、安全审计或取证服务。
+
+![监控检测](https://raw.githubusercontent.com/a361911396-bot/FeiGoWay-Releases/main/docs/images/security-check.png)
 
 ## 第一次使用
 
